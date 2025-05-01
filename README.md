@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![David Banner](https://github.com/user-attachments/assets/48d7109a-27c4-4daa-b6f0-896dfdcadcfa)
+
+
+
 Hi, I'm David. I'm a **Data Analyst** and **UC Berkeley Data Science Alum**, passionate about working with data 📊.  
 I was a Data Analyst in my most recent role within the Market Operations team, collaborating cross-functionally with the Marketing and Sales Operations teams. I've built dashboards, analyzed key metrics, and transformed data to be actually useful for real decisions. 
 ### 🔎 What I’m Good At
